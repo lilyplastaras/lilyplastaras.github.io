@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+forestglasstest0.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+forestglasstest0.weebly.com	TRUE	/	FALSE	1999999999	language	en
+
